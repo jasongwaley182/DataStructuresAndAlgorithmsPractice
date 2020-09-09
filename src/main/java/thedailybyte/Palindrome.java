@@ -1,14 +1,12 @@
 package thedailybyte;
 
-public class Palindrome {
+/**
+ * Given a string, return whether or not it forms a palindrome ignoring case and non-alphabetical chars.
+ * Note: A palindrome is a sequence of characters that reads the same forwards and backwards.
+ * @author Jason Gwaley
+ */
 
-    /**
-     * Given a string, return whether or not it forms a palindrome ignoring case and non-alphabetical chars.
-     * Note: A palindrome is a sequence of characters that reads the same forwards and backwards.
-     * @param str
-     * @return Boolean
-     * @author Jason Gwaley
-     */
+public class Palindrome {
 
     public Boolean isPalindrome(String str){
 

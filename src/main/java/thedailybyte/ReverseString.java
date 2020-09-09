@@ -1,13 +1,11 @@
 package thedailybyte;
 
-public class ReverseString {
+/**
+ * The reverseString function takes in a String parameter and reverses it.
+ * @author Jason Gwaley
+ */
 
-    /**
-     * The reverseString function takes in a String parameter and reverses it.
-     * @Author Jason Gwaley
-     * @param original
-     * @return String
-     */
+public class ReverseString {
 
     public String reverseString(String original){
         char[] chars = original.toCharArray();

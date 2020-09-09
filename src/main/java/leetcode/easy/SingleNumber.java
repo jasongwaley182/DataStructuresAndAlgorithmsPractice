@@ -1,5 +1,8 @@
 package leetcode.easy;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * Given a non-empty array of integers, every element appears twice except for one. Find that single one.
  *
@@ -16,9 +19,6 @@ package leetcode.easy;
  * Input: [4,1,2,1,2]
  * Output: 4
  */
-
-import java.util.HashMap;
-import java.util.Map;
 
 public class SingleNumber {
 

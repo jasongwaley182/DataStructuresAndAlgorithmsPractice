@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Unit test for VacuumCleanerRoute Class.
+ * Unit test for VacuumCleanerRoute class.
  * @author Jason Gwaley
  */
 

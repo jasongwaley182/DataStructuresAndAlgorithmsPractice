@@ -2,17 +2,14 @@ package leetcode.easy;
 
 import java.util.HashMap;
 
-public class TwoNumberSum {
+/**
+ *
+ * Given an array of integers nums and an integer target, return indices of the two numbers such that they
+ * add up to the target. Each input will have exactly one solution.
+ * @author Jason Gwaley
+ */
 
-    /**
-     *
-     * @param nums
-     * @param target
-     * Given an array of integers nums and an integer target, return indices of the two numbers such that they
-     * add up to the target. Each input will have exactly one solution.
-     * @return int[]
-     * @author Jason Gwaley
-     */
+public class TwoNumberSum {
 
     public int[] twoSum(int[] nums, int target){
         HashMap<Integer, Integer> map = new HashMap<>();

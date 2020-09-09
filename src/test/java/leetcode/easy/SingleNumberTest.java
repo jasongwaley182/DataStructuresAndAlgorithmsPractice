@@ -1,11 +1,10 @@
 package leetcode.easy;
 
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
 /**
- * Unit test for Single Number Class.
+ * Unit test for SingleNumber class.
  * @author Jason Gwaley
  */
 

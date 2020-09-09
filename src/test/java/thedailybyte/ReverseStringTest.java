@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Unit test for Reverse String class.
+ * Unit test for ReverseString class.
  * @author Jason Gwaley
  */
 
