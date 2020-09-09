@@ -3,6 +3,10 @@ package leetcode.easy;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Unit test for LongestCommonPrefix Class.
+ * @author Jason Gwaley
+ */
 
 public class LongestCommonPrefixTest {
 
