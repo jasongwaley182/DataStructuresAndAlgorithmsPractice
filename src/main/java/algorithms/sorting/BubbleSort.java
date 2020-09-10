@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sorting;
 
 /**
  * Given an unsorted array of integers, sort the array using the bubble sort algorithm.

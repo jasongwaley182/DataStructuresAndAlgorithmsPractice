@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.sorting;
 
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
@@ -11,12 +11,11 @@ import static org.junit.Assert.assertArrayEquals;
 public class BubbleSortTest {
 
     BubbleSort sut = new BubbleSort();
-    int[] UnsortedArray = { 7,6,5,4,3,2 };
-    int[] SortedArray = { 2,3,4,5,6,7 };
-
+    int[] unsortedArray = { 7,6,5,4,3,2 };
+    int[] sortedArray = { 2,3,4,5,6,7 };
 
     @Test
     public void BubbleSortUnsortedArrayTest(){
-        assertArrayEquals(SortedArray, sut.sort(UnsortedArray));
+        assertArrayEquals(sortedArray, sut.sort(unsortedArray));
     }
 }
