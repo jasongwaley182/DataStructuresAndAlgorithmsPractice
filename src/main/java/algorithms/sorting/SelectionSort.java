@@ -2,6 +2,7 @@ package algorithms.sorting;
 
 /**
  * Given an unsorted array of integers, sort the array using the selection sort algorithm.
+ * O(N^2)
  * @author Jason Gwaley
  */
 

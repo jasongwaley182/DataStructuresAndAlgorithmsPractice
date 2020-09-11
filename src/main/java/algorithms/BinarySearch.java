@@ -4,6 +4,7 @@ package algorithms;
  * Given a sorted array and a number from the array, write a function that
  * can return the index of where the value lies in the array.
  * Implement the function using the binary search algorithm.
+ * O(log n)
  * @author Jason Gwaley
  */
 
